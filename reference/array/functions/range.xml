@@ -111,7 +111,7 @@ foreach (range('c', 'a') as $letter) {
    <para>
     Les valeurs des caractères de séquence sont limitées à une longueur d'un.
     Si une longueur supérieure à un est entrée, seul le premier caractère
-    est utilisé.
+    est utilisée.
    </para>
   </note>
  </refsect1>
